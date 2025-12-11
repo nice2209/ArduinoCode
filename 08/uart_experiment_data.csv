@@ -1,0 +1,14 @@
+test_id,baud_rate,bit_width_us,total_tests,success,errors,success_rate,method,test_type,speed_category
+SP06_01,1200,833.33,15,15,0,100.00,Software,Standard,Low
+SP06_02,2400,416.67,15,15,0,100.00,Software,Standard,Low
+SP06_03,4800,208.33,15,15,0,100.00,Software,Standard,Medium
+SP06_04,9600,104.17,15,15,0,100.00,Software,Standard,Medium
+SP06_05,19200,52.08,15,15,0,100.00,Software,Standard,Medium
+SP06_06,38400,26.04,15,12,3,80.00,Software,Standard,High
+SP06_07,57600,17.36,15,0,15,0.00,Software,Standard,High
+SP06_08,115200,8.68,15,0,15,0.00,Software,Standard,VeryHigh
+SP07_01,230400,4.34,15,15,0,100.00,Hardware,HighSpeed,VeryHigh
+SP07_02,460800,2.17,15,15,0,100.00,Hardware,HighSpeed,Ultra
+SP07_03,921600,1.09,15,15,0,100.00,Hardware,HighSpeed,Ultra
+SP07_04,1000000,1.00,15,15,0,100.00,Hardware,HighSpeed,Ultra
+SP07_05,2000000,0.50,15,15,0,100.00,Hardware,HighSpeed,Ultra
